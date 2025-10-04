@@ -17,3 +17,5 @@ export type CardProps = {
     id: string;
     setMyProducts: React.Dispatch<React.SetStateAction<product[]>>;
 };
+
+
